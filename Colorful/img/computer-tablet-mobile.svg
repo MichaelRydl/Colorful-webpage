@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 275.97327 263.44876" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="b" x="-.10443" y="-.35543" width="1.2089" height="1.7109">
+   <feGaussianBlur stdDeviation="17.1587"/>
+  </filter>
+  <linearGradient id="a" x1="1271.4" x2="1280" y1="623.79" y2="1120.9" gradientTransform="matrix(1 0 0 .48859 -17.156 400.03)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#999" offset="0"/>
+   <stop stop-color="#fff" offset=".454"/>
+   <stop stop-color="#999" offset=".5858"/>
+   <stop stop-color="#b3b3b3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(.22265 0 0 .22265 -134.03 38.295)">
+  <g transform="translate(-33.392)" stroke="#b3b3b3" stroke-width="4.2326">
+   <path d="m1089.3 852.09c-11.522 21.931-30.558 60.877-31.344 80.094-1.9908 48.705 391.22 47.123 394.28-1.4063 1.1343-17.991-26.986-56.767-44.188-78.688h-318.75z" fill="#1a1a1a" filter="url(#b)" opacity=".7215"/>
+   <path d="m1094.3 614.65 297.14 5.7143v198.92s58.772 68.816 57.143 94.646c-3.0598 48.529-396.28 50.101-394.29 1.3959 1.1287-27.613 40-96.042 40-96.042z" fill="url(#a)"/>
+  </g>
+  <path d="m645.71-170.49h1154.3a40 40 0 0 1 40 40v728.57a40 40 0 0 1 -40 40h-1154.3a40 40 0 0 1 -40 -40v-728.57a40 40 0 0 1 40 -40" stroke="#e6e6e6" stroke-width="3"/>
+  <path d="m602 197.5v397.16c0 22.16 17.84 40 40 40h1154.3c22.16 0 40-17.84 40-40v-397.16h-1234.3z" fill="#dbdee3" opacity=".2877"/>
+  <path d="m668.88-102.42h1108v658.13h-1108z" fill="#5f8dd3" stroke="#fff" stroke-width=".85478"/>
+  <path d="m1798-170.49s40 17.84 40 40v728.57c0 22.16-17.84 40-40 40h-1154.3c-22.16 0-40-17.84-40-40 819.2-195.24 1194.3-768.57 1194.3-768.57z" fill="#e6e6e6" opacity=".1142"/>
+ </g>
+</svg>
